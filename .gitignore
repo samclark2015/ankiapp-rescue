@@ -1,4 +1,4 @@
 *.apkg
 .DS_Store
 .vscode
-temp/**
+output/**
